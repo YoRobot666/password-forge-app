@@ -20,7 +20,7 @@ pip install pyinstaller
 pyinstaller --onefile --windowed PWD_WGEN.py
 
 ## Author
-Built by YoRobot666
+Built by YoRobot666 & Meta AI
 
 ## License
 MIT
