@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+_internal/
+.venv/
+venv/
+*.exe
+*.ico
+*.png
